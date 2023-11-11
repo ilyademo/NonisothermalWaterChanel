@@ -1,0 +1,7 @@
+81	//Number of nodes
+0.008	//Height of chanel
+45 		//T_0
+40		//dT
+1000 	//Rho
+1000	//Re
+1		//Visc_interpolation (1 -> visc_from_cells; 0 -> visc_from_T_on_face)
